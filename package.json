@@ -1,0 +1,15 @@
+{
+    "name": "ivoilic.file-icons",
+    "title": "File Icons",
+    "description": "Adds icons to your files.",
+    "homepage": "https://github.com/ivoilic/File-Icons",
+    "version": "1.0.0",
+    "author": "Ivo Ilic <admin@ivoilic.com> (http://ivoilic.com)",
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.24.0"
+    },
+    "i18n": [ "en"],
+    "package-i18n": {
+    }
+}
