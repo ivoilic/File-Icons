@@ -11,6 +11,9 @@ define(function(require, exports, module) {
             $("#working-set-list-container .extension").each(function(){
                 $(this).parent().addClass('brackets-icon-'+$(this).html().split('.')[1]);
             });
+            $(".jstree-open, .jstree-closed").each(function(){
+                $(this).children("a").addClass('brackets-icon-folder');
+            });
         }, 10);
     });
 });
