@@ -1,0 +1,5 @@
+[class^="brackets-icon-"]:before, [class*=" brackets-icon-"]:before{
+    content: "\e900";
+    margin: 0 3px 0 3px;
+    vertical-align: middle;
+}

@@ -1,0 +1,40 @@
+@font-face {
+    font-family: 'file-icon-font';
+    src:    url('fonts/file-icon-font.eot?35wjij');
+    src:    url('fonts/file-icon-font.eot?35wjij#iefix') format('embedded-opentype'),
+        url('fonts/file-icon-font.woff2?35wjij') format('woff2'),
+        url('fonts/file-icon-font.ttf?35wjij') format('truetype'),
+        url('fonts/file-icon-font.woff?35wjij') format('woff'),
+        url('fonts/file-icon-font.svg?35wjij#file-icon-font') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+[class^="brackets-icon-"], [class*=" brackets-icon-"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'file-icon-font' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.brackets-icon-file:before {
+    content: "\e900";
+}
+.brackets-icon-folder:before {
+    content: "\e901";
+}
+.brackets-icon-html:before {
+    content: "\e902";
+}
+.brackets-icon-css:before {
+    content: "\e903";
+}
+

@@ -1,0 +1,153 @@
+{
+	"IcoMoonType": "selection",
+	"icons": [
+		{
+			"icon": {
+				"paths": [
+					"M917.806 229.076c-22.212-30.292-53.174-65.7-87.178-99.704s-69.412-64.964-99.704-87.178c-51.574-37.82-76.592-42.194-90.924-42.194h-496c-44.112 0-80 35.888-80 80v864c0 44.112 35.888 80 80 80h736c44.112 0 80-35.888 80-80v-624c0-14.332-4.372-39.35-42.194-90.924zM785.374 174.626c30.7 30.7 54.8 58.398 72.58 81.374h-153.954v-153.946c22.984 17.78 50.678 41.878 81.374 72.572zM896 944c0 8.672-7.328 16-16 16h-736c-8.672 0-16-7.328-16-16v-864c0-8.672 7.328-16 16-16 0 0 495.956-0.002 496 0v224c0 17.672 14.326 32 32 32h224v624z"
+				],
+				"attrs": [],
+				"isMulticolor": false,
+				"tags": [
+					"file-empty",
+					"file",
+					"document",
+					"paper",
+					"page",
+					"new",
+					"empty",
+					"blank"
+				],
+				"grid": 16
+			},
+			"attrs": [],
+			"properties": {
+				"order": 3,
+				"prevSize": 16,
+				"ligatures": "file-empty, file3",
+				"name": "file",
+				"id": 36,
+				"code": 59648
+			},
+			"setIdx": 0,
+			"setId": 0,
+			"iconIdx": 36
+		},
+		{
+			"icon": {
+				"paths": [
+					"M448 128l128 128h448v704h-1024v-832z"
+				],
+				"attrs": [],
+				"isMulticolor": false,
+				"tags": [
+					"folder",
+					"directory",
+					"category",
+					"browse"
+				],
+				"grid": 16
+			},
+			"attrs": [],
+			"properties": {
+				"order": 4,
+				"prevSize": 16,
+				"ligatures": "folder, directory",
+				"name": "folder",
+				"id": 47,
+				"code": 59649
+			},
+			"setIdx": 0,
+			"setId": 0,
+			"iconIdx": 47
+		},
+		{
+			"icon": {
+				"paths": [
+					"M60.538 0l82.144 921.63 368.756 102.37 369.724-102.524 82.3-921.476h-902.924zM784.63 301.428h-432.54l10.302 115.75h411.968l-31.042 347.010-231.844 64.254-231.572-64.254-15.83-177.512h113.494l8.048 90.232 125.862 33.916 0.278-0.078 125.934-33.992 13.070-146.55h-391.74l-30.494-341.8h566.214l-10.108 113.024z"
+				],
+				"attrs": [],
+				"isMulticolor": false,
+				"tags": [
+					"html-five",
+					"w3c"
+				],
+				"grid": 16
+			},
+			"attrs": [],
+			"properties": {
+				"order": 1,
+				"prevSize": 16,
+				"ligatures": "html-five, w3c",
+				"name": "html",
+				"id": 484,
+				"code": 59650
+			},
+			"setIdx": 0,
+			"setId": 0,
+			"iconIdx": 484
+		},
+		{
+			"icon": {
+				"paths": [
+					"M152.388 48.522l-34.36 171.926h699.748l-21.884 111.054h-700.188l-33.892 171.898h699.684l-39.018 196.064-282.012 93.422-244.4-93.422 16.728-85.042h-171.898l-40.896 206.352 404.226 154.704 466.006-154.704 153.768-772.252z"
+				],
+				"attrs": [],
+				"isMulticolor": false,
+				"tags": [
+					"css3",
+					"w3c"
+				],
+				"grid": 16
+			},
+			"attrs": [],
+			"properties": {
+				"order": 2,
+				"prevSize": 16,
+				"ligatures": "css3, w3c3",
+				"name": "css",
+				"id": 486,
+				"code": 59651
+			},
+			"setIdx": 0,
+			"setId": 0,
+			"iconIdx": 486
+		}
+	],
+	"height": 1024,
+	"metadata": {
+		"name": "file-icon-font"
+	},
+	"preferences": {
+		"showGlyphs": true,
+		"showCodes": true,
+		"showQuickUse": true,
+		"showQuickUse2": true,
+		"showSVGs": true,
+		"fontPref": {
+			"prefix": "brackets-icon-",
+			"metadata": {
+				"fontFamily": "file-icon-font",
+				"majorVersion": 1,
+				"minorVersion": 0
+			},
+			"metrics": {
+				"emSize": 1024,
+				"baseline": 6.25,
+				"whitespace": 50
+			},
+			"showSelector": true,
+			"showMetrics": true,
+			"showMetadata": false
+		},
+		"imagePref": {
+			"prefix": "icon-",
+			"png": true,
+			"useClassSelector": true,
+			"color": 0,
+			"bgColor": 16777215,
+			"classSelector": ".icon"
+		},
+		"historySize": 100
+	}
+}
